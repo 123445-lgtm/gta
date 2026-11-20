@@ -1,867 +1,867 @@
 1
-00:00:00,500 --> 00:00:01,429
+00:00:00,400 --> 00:00:01,365
 Trece años.
 
 2
-00:00:01,709 --> 00:00:05,064
+00:00:01,365 --> 00:00:05,550
 Trece años desde que Grand Theft Auto cinco llegó a las tiendas.
 
 3
-00:00:05,344 --> 00:00:10,035
+00:00:05,550 --> 00:00:11,940
 Trece años de rumores, de filtraciones, de memes y de tráileres que rompieron internet.
 
 4
-00:00:10,315 --> 00:00:14,773
+00:00:11,940 --> 00:00:17,490
 Y por fin, el diecinueve de noviembre de dos mil veintiséis, la espera terminó.
 
 5
-00:00:16,253 --> 00:00:18,447
+00:00:18,490 --> 00:00:20,010
 Grand Theft Auto seis ya está aquí.
 
 6
-00:00:18,727 --> 00:00:24,776
+00:00:20,010 --> 00:00:28,090
 Y no es un lanzamiento cualquiera: es, probablemente, el estreno más grande de la historia del entretenimiento.
 
 7
-00:00:25,056 --> 00:00:29,375
+00:00:28,090 --> 00:00:33,320
 Más grande que cualquier película, que cualquier disco, que cualquier otro videojuego.
 
 8
-00:00:30,855 --> 00:00:33,049
+00:00:34,320 --> 00:00:37,140
 En este vídeo vamos a repasarlo todo.
 
 9
-00:00:33,329 --> 00:00:48,016
+00:00:37,140 --> 00:00:53,195
 De dónde viene este juego, por qué tardó tanto, cómo es el estado de Leonida, quiénes son Lucía y Jason, qué ha cambiado en la jugabilidad, y qué está pasando ahora mismo con las notas de la crítica y unas cifras de ventas que, sinceramente, cuesta creer.
 
 10
-00:00:48,296 --> 00:00:50,478
+00:00:53,195 --> 00:00:55,860
 Ponte cómodo, porque esto va para largo.
 
 11
-00:00:51,958 --> 00:01:00,329
+00:00:56,860 --> 00:01:04,495
 Y antes de empezar, si te gustan los vídeos largos y bien explicados sobre videojuegos, suscríbete al canal y activa la campana.
 
 12
-00:01:00,609 --> 00:01:02,002
+00:01:04,495 --> 00:01:05,470
 Nos ayuda muchísimo.
 
 13
-00:01:02,282 --> 00:01:03,977
+00:01:05,470 --> 00:01:06,920
 Ahora sí, vamos allá.
 
 14
-00:01:05,457 --> 00:01:06,409
+00:01:07,920 --> 00:01:08,920
 Capítulo uno.
 
 15
-00:01:06,689 --> 00:01:08,048
+00:01:08,920 --> 00:01:10,190
 Trece años de espera.
 
 16
-00:01:09,528 --> 00:01:13,835
+00:01:11,190 --> 00:01:15,585
 Para entender lo que significa GTA seis, hay que volver a dos mil trece.
 
 17
-00:01:14,115 --> 00:01:20,396
+00:01:15,585 --> 00:01:22,815
 Ese septiembre, Rockstar lanzó Grand Theft Auto cinco en PlayStation tres y Xbox trescientos sesenta.
 
 18
-00:01:20,676 --> 00:01:25,227
+00:01:22,815 --> 00:01:27,740
 Michael, Franklin y Trevor, la ciudad de Los Santos, y un juego que lo cambió todo.
 
 19
-00:01:26,707 --> 00:01:32,512
+00:01:28,740 --> 00:01:35,595
 GTA cinco se convirtió en uno de los productos de entretenimiento más rentables jamás creados.
 
 20
-00:01:32,792 --> 00:01:46,085
+00:01:35,595 --> 00:01:52,150
 Ha superado las doscientas diez millones de copias vendidas, y salió en tres generaciones de consolas distintas: PlayStation tres, PlayStation cuatro, PlayStation cinco, y sus equivalentes en Xbox, además de PC.
 
 21
-00:01:47,565 --> 00:01:49,957
+00:01:53,150 --> 00:01:56,140
 Pero el verdadero motor fue GTA Online.
 
 22
-00:01:50,237 --> 00:01:55,821
+00:01:56,140 --> 00:02:02,945
 El modo multijugador generó miles de millones de dólares en microtransacciones durante más de una década.
 
 23
-00:01:56,101 --> 00:02:01,442
+00:02:02,945 --> 00:02:09,505
 Y eso tuvo una consecuencia directa: Rockstar no tenía ninguna prisa por sacar una secuela.
 
 24
-00:02:01,722 --> 00:02:10,395
+00:02:09,505 --> 00:02:19,030
 Mientras tanto, el estudio lanzó Red Dead Redemption dos en dos mil dieciocho, otra obra maestra, y los fans de GTA seguían esperando.
 
 25
-00:02:11,875 --> 00:02:14,104
+00:02:20,030 --> 00:02:22,705
 Durante años, todo fueron rumores.
 
 26
-00:02:14,384 --> 00:02:16,508
+00:02:22,705 --> 00:02:25,435
 Proyecto Americas, decían algunos.
 
 27
-00:02:16,788 --> 00:02:22,744
+00:02:25,435 --> 00:02:31,820
 Que si volvería Vice City, que si habría protagonista femenina, que si el mapa cubriría varios países.
 
 28
-00:02:23,024 --> 00:02:32,219
+00:02:31,820 --> 00:02:43,930
 Hasta que en febrero de dos mil veintidós, Rockstar por fin lo confirmó de forma oficial: el desarrollo del próximo Grand Theft Auto estaba, cito, muy avanzado.
 
 29
-00:02:33,699 --> 00:02:34,825
+00:02:44,930 --> 00:02:46,210
 Capítulo dos.
 
 30
-00:02:35,105 --> 00:02:37,602
+00:02:46,210 --> 00:02:48,810
 La filtración que sacudió a la industria.
 
 31
-00:02:39,081 --> 00:02:42,890
+00:02:49,810 --> 00:02:53,790
 En septiembre de dos mil veintidós ocurrió algo sin precedentes.
 
 32
-00:02:43,170 --> 00:02:50,728
+00:02:53,790 --> 00:03:03,045
 Un hacker accedió a sistemas internos de Rockstar y publicó en un foro alrededor de noventa vídeos de una versión temprana de GTA seis.
 
 33
-00:02:51,008 --> 00:02:55,025
+00:03:03,045 --> 00:03:08,030
 Animaciones a medio hacer, menús de depuración, texturas provisionales.
 
 34
-00:02:55,305 --> 00:03:02,352
+00:03:08,030 --> 00:03:16,440
 Y, sobre todo, la confirmación de muchos rumores: Vice City volvía, y habría dos protagonistas, un hombre y una mujer.
 
 35
-00:03:03,832 --> 00:03:05,713
+00:03:17,440 --> 00:03:21,235
 La reacción de Rockstar fue sobria.
 
 36
-00:03:05,993 --> 00:03:13,179
+00:03:21,235 --> 00:03:29,225
 Reconocieron la intrusión, dijeron que estaban profundamente decepcionados, y aseguraron que el desarrollo seguiría su curso.
 
 37
-00:03:13,459 --> 00:03:23,664
+00:03:29,225 --> 00:03:43,950
 Muchos desarrolladores de todo el mundo salieron en su defensa, recordando a los jugadores que un juego en desarrollo siempre se ve mal, y que eso no dice nada del resultado final.
 
 38
-00:03:25,144 --> 00:03:34,641
+00:03:44,950 --> 00:03:55,085
 Más tarde se supo que detrás del ataque estaba un joven británico vinculado al grupo Lapsus, que ya había atacado a otras grandes empresas tecnológicas.
 
 39
-00:03:34,921 --> 00:03:37,000
+00:03:55,085 --> 00:03:57,850
 El caso acabó en los tribunales.
 
 40
-00:03:37,280 --> 00:03:44,884
+00:03:57,850 --> 00:04:06,230
 Y aunque fue un golpe duro para el estudio, tuvo un efecto inesperado: el interés por GTA seis se disparó todavía más.
 
 41
-00:03:46,364 --> 00:03:47,595
+00:04:07,230 --> 00:04:08,395
 Capítulo tres.
 
 42
-00:03:47,875 --> 00:03:50,034
+00:04:08,395 --> 00:04:10,720
 Los tráileres que rompieron internet.
 
 43
-00:03:51,514 --> 00:03:57,006
+00:04:11,720 --> 00:04:17,370
 En noviembre de dos mil veintitrés, Rockstar anunció que el primer tráiler llegaría en diciembre.
 
 44
-00:03:57,286 --> 00:04:02,580
+00:04:17,370 --> 00:04:23,225
 Pero el cuatro de diciembre, horas antes de lo previsto, el vídeo se filtró en redes sociales.
 
 45
-00:04:02,860 --> 00:04:05,519
+00:04:23,225 --> 00:04:26,515
 Rockstar reaccionó publicándolo de inmediato.
 
 46
-00:04:05,799 --> 00:04:15,052
+00:04:26,515 --> 00:04:36,730
 En apenas veinticuatro horas, el tráiler superó las noventa millones de visualizaciones en YouTube, convirtiéndose en el vídeo no musical más visto en su primer día.
 
 47
-00:04:16,532 --> 00:04:21,036
+00:04:37,730 --> 00:04:42,665
 El tráiler era una carta de amor a la Florida de los vídeos virales.
 
 48
-00:04:21,316 --> 00:04:32,415
+00:04:42,665 --> 00:04:55,650
 Gente haciendo locuras en la playa, caimanes en las tiendas, fiestas en barcos, clubes nocturnos, y todo filtrado a través de pantallas verticales de móviles, como si fuera un feed de redes sociales.
 
 49
-00:04:32,695 --> 00:04:36,620
+00:04:55,650 --> 00:05:00,270
 Era la sátira de Rockstar, actualizada a la era de los influencers.
 
 50
-00:04:38,100 --> 00:04:39,667
+00:05:01,270 --> 00:05:03,385
 Y luego estaba la canción.
 
 51
-00:04:39,947 --> 00:04:42,013
+00:05:03,385 --> 00:05:05,090
 Love Is a Long Road, de Tom Petty.
 
 52
-00:04:42,293 --> 00:04:48,273
+00:05:05,090 --> 00:05:13,360
 Un tema de mil novecientos ochenta y nueve que, de repente, volvió a las listas de reproducción de todo el mundo.
 
 53
-00:04:48,553 --> 00:04:54,776
+00:05:13,360 --> 00:05:19,825
 Y al final del tráiler, la escena que lo resumía todo: una pareja atracando una tienda juntos.
 
 54
-00:04:55,056 --> 00:04:56,785
+00:05:19,825 --> 00:05:22,020
 Un Bonnie y Clyde moderno.
 
 55
-00:04:58,265 --> 00:05:05,231
+00:05:23,020 --> 00:05:32,185
 El segundo tráiler llegó por sorpresa el seis de mayo de dos mil veinticinco, pocos días después de anunciarse el primer retraso.
 
 56
-00:05:05,511 --> 00:05:14,927
+00:05:32,185 --> 00:05:42,490
 Rockstar aseguró que sumó cuatrocientas setenta y cinco millones de visualizaciones en todas las plataformas durante sus primeras veinticuatro horas.
 
 57
-00:05:15,207 --> 00:05:16,600
+00:05:42,490 --> 00:05:43,890
 Una cifra absurda.
 
 58
-00:05:18,080 --> 00:05:20,692
+00:05:44,890 --> 00:05:48,010
 Este segundo tráiler fue mucho más narrativo.
 
 59
-00:05:20,972 --> 00:05:39,258
+00:05:48,010 --> 00:06:04,320
 Nos presentó en profundidad a Jason y a Lucía, mostró secuencias en tiempo real con una calidad visual que dejó a medio mundo con la boca abierta, y vino acompañado de una web oficial con decenas de capturas, descripciones de personajes y de zonas del mapa.
 
 60
-00:05:39,538 --> 00:05:42,882
+00:06:04,320 --> 00:06:08,210
 Durante semanas, la comunidad analizó cada píxel.
 
 61
-00:05:44,362 --> 00:05:45,476
+00:06:09,210 --> 00:06:10,490
 Capítulo cuatro.
 
 62
-00:05:45,756 --> 00:05:46,906
+00:06:10,490 --> 00:06:11,670
 Los retrasos.
 
 63
-00:05:48,386 --> 00:05:53,192
+00:06:12,670 --> 00:06:18,135
 Cuando se mostró el primer tráiler, la fecha prometida era dos mil veinticinco.
 
 64
-00:05:53,472 --> 00:06:00,357
+00:06:18,135 --> 00:06:26,530
 Pero en mayo de dos mil veinticinco llegó el primer golpe: GTA seis se iba al veintiséis de mayo de dos mil veintiséis.
 
 65
-00:06:00,637 --> 00:06:06,721
+00:06:26,530 --> 00:06:34,800
 Y en noviembre de ese mismo año, un segundo retraso lo empujó hasta el diecinueve de noviembre de dos mil veintiséis.
 
 66
-00:06:08,201 --> 00:06:17,860
+00:06:35,800 --> 00:06:46,040
 Rockstar justificó ambos retrasos con el mismo argumento: necesitaban tiempo extra para pulir el juego al nivel de calidad que los jugadores esperaban.
 
 67
-00:06:18,140 --> 00:06:23,748
+00:06:46,040 --> 00:06:52,900
 Y aunque la comunidad se resignó entre memes, la industria entera reorganizó sus calendarios.
 
 68
-00:06:24,028 --> 00:06:28,416
+00:06:52,900 --> 00:06:58,360
 Muchas editoras movieron sus propios lanzamientos para no coincidir con el gigante.
 
 69
-00:06:28,696 --> 00:06:31,216
+00:06:58,360 --> 00:07:01,290
 Nadie quería competir con GTA seis.
 
 70
-00:06:32,696 --> 00:06:39,348
+00:07:02,290 --> 00:07:10,320
 Porque esto es otra cosa que GTA seis ha conseguido antes incluso de salir: convertirse en un fenómeno cultural.
 
 71
-00:06:39,628 --> 00:06:48,510
+00:07:10,320 --> 00:07:20,105
 Hubo bromas sobre que saldría antes la colonización de Marte, comparaciones con otros acontecimientos históricos, y cuentas atrás por todas partes.
 
 72
-00:06:48,790 --> 00:06:52,273
+00:07:20,105 --> 00:07:23,850
 La espera, en sí misma, se volvió parte de la experiencia.
 
 73
-00:06:53,753 --> 00:06:54,914
+00:07:24,850 --> 00:07:26,010
 Capítulo cinco.
 
 74
-00:06:55,194 --> 00:06:56,564
+00:07:26,010 --> 00:07:27,710
 Bienvenidos a Leonida.
 
 75
-00:06:58,044 --> 00:07:00,342
+00:07:28,710 --> 00:07:30,930
 El juego no se limita a una ciudad.
 
 76
-00:07:00,622 --> 00:07:08,355
+00:07:30,930 --> 00:07:38,935
 Por primera vez desde San Andreas, el mapa es un estado entero: Leonida, la versión satírica que Rockstar hace de Florida.
 
 77
-00:07:08,635 --> 00:07:12,094
+00:07:38,935 --> 00:07:43,230
 Y está dividido en varias regiones muy distintas entre sí.
 
 78
-00:07:13,574 --> 00:07:16,384
+00:07:44,230 --> 00:07:47,485
 La joya de la corona es, por supuesto, Vice City.
 
 79
-00:07:16,664 --> 00:07:23,328
+00:07:47,485 --> 00:07:56,700
 La ciudad que ya visitamos en dos mil dos, ambientada entonces en los años ochenta, vuelve ahora en su versión moderna.
 
 80
-00:07:23,608 --> 00:07:30,400
+00:07:56,700 --> 00:08:05,030
 Rascacielos, playas, Ocean Drive con sus luces de neón, yates de lujo, y una vida nocturna que no se detiene.
 
 81
-00:07:31,880 --> 00:07:34,724
+00:08:06,030 --> 00:08:09,655
 La densidad de detalle es lo que más llama la atención.
 
 82
-00:07:35,004 --> 00:07:43,990
+00:08:09,655 --> 00:08:21,080
 Cada calle está llena de gente, cada local tiene su interior, cada playa está repleta de turistas, culturistas, vendedores y personajes estrafalarios.
 
 83
-00:07:44,270 --> 00:07:49,240
+00:08:21,080 --> 00:08:27,000
 Rockstar ha intentado que la ciudad se sienta viva de verdad, y no solo como un decorado.
 
 84
-00:07:50,719 --> 00:07:55,793
+00:08:28,000 --> 00:08:33,890
 Al sur están los Leonida Keys, una cadena de islas inspirada en los Cayos de Florida.
 
 85
-00:07:56,073 --> 00:08:01,646
+00:08:33,890 --> 00:08:40,745
 Puentes infinitos sobre aguas turquesa, pueblos pesqueros, bares de carretera y, cómo no, contrabando.
 
 86
-00:08:01,926 --> 00:08:04,376
+00:08:40,745 --> 00:08:43,470
 Aquí es donde empieza la historia de Jason.
 
 87
-00:08:05,855 --> 00:08:08,967
+00:08:44,470 --> 00:08:47,510
 Grassrivers es el equivalente a los Everglades.
 
 88
-00:08:09,247 --> 00:08:13,009
+00:08:47,510 --> 00:08:52,085
 Pantanos enormes, hierba alta, aerodeslizadores y caimanes.
 
 89
-00:08:13,289 --> 00:08:14,438
+00:08:52,085 --> 00:08:52,610
 Muchos caimanes.
 
 90
-00:08:14,718 --> 00:08:22,195
+00:08:52,610 --> 00:09:00,550
 Es una de las zonas más salvajes del mapa, y promete persecuciones y escondites que no habíamos visto nunca en la saga.
 
 91
-00:08:23,675 --> 00:08:35,203
+00:09:01,550 --> 00:09:13,450
 Port Gellhorn representa la otra cara de Leonida: una ciudad costera venida a menos, con moteles baratos, centros comerciales abandonados y gente que intenta salir adelante como puede.
 
 92
-00:08:35,483 --> 00:08:38,363
+00:09:13,450 --> 00:09:16,800
 Es la parte menos glamurosa del sueño americano.
 
 93
-00:08:39,843 --> 00:08:42,513
+00:09:17,800 --> 00:09:20,655
 Ambrosia es la zona agrícola e industrial.
 
 94
-00:08:42,793 --> 00:08:47,274
+00:09:20,655 --> 00:09:25,375
 Campos de caña de azúcar, refinerías, pueblos pequeños y clubes de moteros.
 
 95
-00:08:47,554 --> 00:08:50,399
+00:09:25,375 --> 00:09:28,820
 Un territorio duro, donde la ley no siempre llega.
 
 96
-00:08:51,879 --> 00:08:57,382
+00:09:29,820 --> 00:09:35,525
 Y al norte, el Parque Nacional de Mount Kalaga: bosques, ríos, senderos, caza y pesca.
 
 97
-00:08:57,662 --> 00:09:05,023
+00:09:35,525 --> 00:09:44,450
 Un espacio natural enorme que recuerda a lo que Rockstar consiguió con Red Dead Redemption dos, pero trasladado a la época actual.
 
 98
-00:09:06,503 --> 00:09:07,815
+00:09:45,450 --> 00:09:46,665
 ¿Y cómo de grande es?
 
 99
-00:09:08,095 --> 00:09:19,414
+00:09:46,665 --> 00:09:58,370
 Rockstar no ha dado cifras oficiales en kilómetros cuadrados, pero la comunidad, analizando tráileres y capturas, estima que el mapa es claramente mayor que el de GTA cinco.
 
 100
-00:09:19,694 --> 00:09:22,632
+00:09:58,370 --> 00:10:01,405
 Y lo más importante: mucho más denso.
 
 101
-00:09:22,912 --> 00:09:27,834
+00:10:01,405 --> 00:10:06,910
 Más interiores, más edificios accesibles y más cosas que hacer por metro cuadrado.
 
 102
-00:09:29,314 --> 00:09:30,464
+00:10:07,910 --> 00:10:09,040
 Capítulo seis.
 
 103
-00:09:30,744 --> 00:09:32,067
+00:10:09,040 --> 00:10:10,700
 Lucía y Jason.
 
 104
-00:09:33,547 --> 00:09:39,816
+00:10:11,700 --> 00:10:17,970
 Lucía Caminos es la primera protagonista femenina de la saga principal de Grand Theft Auto en la era moderna.
 
 105
-00:09:40,096 --> 00:09:46,586
+00:10:17,970 --> 00:10:25,080
 Es latina, dura, y la conocemos en el primer tráiler en un lugar muy concreto: la Penitenciaría de Leonida.
 
 106
-00:09:48,066 --> 00:09:50,980
+00:10:26,080 --> 00:10:29,500
 Su padre le enseñó a pelear desde que podía caminar.
 
 107
-00:09:51,260 --> 00:09:56,044
+00:10:29,500 --> 00:10:35,355
 La vida le ha dado golpes desde entonces, y luchar por su familia la llevó a la cárcel.
 
 108
-00:09:56,324 --> 00:10:00,840
+00:10:35,355 --> 00:10:40,425
 Cuando sale, tiene una idea clara: no va a cometer los mismos errores.
 
 109
-00:10:01,120 --> 00:10:04,580
+00:10:40,425 --> 00:10:44,130
 Quiere una vida mejor, y está dispuesta a todo para conseguirla.
 
 110
-00:10:06,060 --> 00:10:08,312
+00:10:45,130 --> 00:10:47,700
 Jason Duval es el otro protagonista.
 
 111
-00:10:08,592 --> 00:10:21,456
+00:10:47,700 --> 00:11:00,220
 Creció rodeado de estafadores y delincuentes, se alistó en el ejército para intentar escapar de ese mundo, y acabó de vuelta en los Keys, haciendo lo único que sabe hacer: trabajar para traficantes locales.
 
 112
-00:10:22,936 --> 00:10:24,817
+00:11:01,220 --> 00:11:03,285
 Jason quiere una vida tranquila.
 
 113
-00:10:25,097 --> 00:10:27,779
+00:11:03,285 --> 00:11:06,220
 Pero en Leonida, la tranquilidad es un lujo.
 
 114
-00:10:28,059 --> 00:10:30,357
+00:11:06,220 --> 00:11:08,795
 Y cuando conoce a Lucía, todo cambia.
 
 115
-00:10:30,637 --> 00:10:32,669
+00:11:08,795 --> 00:11:11,540
 Quizá sea lo mejor que le ha pasado.
 
 116
-00:10:32,949 --> 00:10:34,075
+00:11:11,540 --> 00:11:12,510
 O quizá lo peor.
 
 117
-00:10:35,555 --> 00:10:38,516
+00:11:13,510 --> 00:11:16,805
 La relación entre los dos es el corazón de la historia.
 
 118
-00:10:38,796 --> 00:10:46,946
+00:11:16,805 --> 00:11:25,695
 A diferencia de GTA cinco, donde Michael, Franklin y Trevor eran tres hombres con agendas propias, aquí tenemos una pareja.
 
 119
-00:10:47,226 --> 00:10:51,917
+00:11:25,695 --> 00:11:31,175
 Una historia de amor y de crimen, donde la confianza es la moneda más valiosa.
 
 120
-00:10:52,197 --> 00:10:56,608
+00:11:31,175 --> 00:11:36,820
 Y donde, según el propio tráiler, todo se tuerce cuando un golpe sencillo sale mal.
 
 121
-00:10:58,088 --> 00:11:06,436
+00:11:37,820 --> 00:11:46,360
 Como en GTA cinco, podemos alternar entre los dos personajes en muchos momentos, y la historia va saltando entre sus puntos de vista.
 
 122
-00:11:06,716 --> 00:11:11,929
+00:11:46,360 --> 00:11:52,940
 Pero esta vez su vínculo emocional es mucho más fuerte, y eso cambia el tono de toda la narrativa.
 
 123
-00:11:13,409 --> 00:11:14,546
+00:11:53,940 --> 00:11:55,265
 Capítulo siete.
 
 124
-00:11:14,826 --> 00:11:16,254
+00:11:55,265 --> 00:11:57,110
 El reparto de Leonida.
 
 125
-00:11:17,734 --> 00:11:22,274
+00:11:58,110 --> 00:12:04,585
 Alrededor de Lucía y Jason gira un reparto lleno de personajes muy de Rockstar.
 
 126
-00:11:22,554 --> 00:11:24,853
+00:12:04,585 --> 00:12:07,220
 Cal Hampton es el mejor amigo de Jason.
 
 127
-00:11:25,133 --> 00:11:29,742
+00:12:07,220 --> 00:12:14,625
 Pasa el día en casa, enganchado a internet y convencido de que el gobierno le vigila.
 
 128
-00:11:30,022 --> 00:11:33,145
+00:12:14,625 --> 00:12:18,620
 Teorías conspirativas, cerveza y radioaficionado.
 
 129
-00:11:33,425 --> 00:11:36,072
+00:12:18,620 --> 00:12:21,770
 Probablemente el alivio cómico de la historia.
 
 130
-00:11:37,552 --> 00:11:39,932
+00:12:22,770 --> 00:12:25,840
 Boobie Ike es una leyenda local de Vice City.
 
 131
-00:11:40,212 --> 00:11:47,828
+00:12:25,840 --> 00:12:34,125
 Empezó en la calle y ahora es dueño de negocios inmobiliarios, un club de striptease y un sello discográfico, Only Raw Records.
 
 132
-00:11:48,108 --> 00:11:51,905
+00:12:34,125 --> 00:12:39,000
 Un empresario que sabe que, en esta ciudad, todo el mundo tiene un precio.
 
 133
-00:11:53,385 --> 00:11:57,901
+00:12:40,000 --> 00:12:45,955
 Dre'Quan Priest trabaja para Boobie y quiere convertirse en un gran productor musical.
 
 134
-00:11:58,181 --> 00:12:04,915
+00:12:45,955 --> 00:12:54,325
 Su gran apuesta son Real Dimez, un dúo de raperas que se hizo viral años atrás y que busca volver a lo más alto.
 
 135
-00:12:05,195 --> 00:12:08,875
+00:12:54,325 --> 00:12:58,390
 La música, como siempre en GTA, tiene un papel muy importante.
 
 136
-00:12:10,355 --> 00:12:15,974
+00:12:59,390 --> 00:13:05,300
 Raúl Bautista es un atracador de bancos con mucha experiencia, carismático y peligroso.
 
 137
-00:12:16,254 --> 00:12:21,235
+00:13:05,300 --> 00:13:11,765
 Siempre busca nuevos talentos para sus golpes, y ve en Jason y Lucía una oportunidad.
 
 138
-00:12:21,515 --> 00:12:25,381
+00:13:11,765 --> 00:13:16,100
 Aunque, como todo en Leonida, nunca sabes cuánto puedes fiarte.
 
 139
-00:12:26,861 --> 00:12:32,643
+00:13:17,100 --> 00:13:23,810
 Y Brian Heder es un viejo contrabandista de los Keys, que lleva décadas moviendo mercancía por la costa.
 
 140
-00:12:32,923 --> 00:12:38,031
+00:13:23,810 --> 00:13:30,350
 Deja que Jason viva en una de sus propiedades, a cambio de, digamos, algunos favores.
 
 141
-00:12:39,511 --> 00:12:40,556
+00:13:31,350 --> 00:13:32,485
 Capítulo ocho.
 
 142
-00:12:40,836 --> 00:12:42,636
+00:13:32,485 --> 00:13:34,510
 Jugabilidad y tecnología.
 
 143
-00:12:44,115 --> 00:12:46,542
+00:13:35,510 --> 00:13:38,470
 Técnicamente, GTA seis es una bestia.
 
 144
-00:12:46,822 --> 00:12:49,736
+00:13:38,470 --> 00:13:42,220
 El motor de Rockstar, RAGE, ha dado un salto enorme.
 
 145
-00:12:50,016 --> 00:12:57,725
+00:13:42,220 --> 00:13:49,935
 La iluminación global, los reflejos, la vegetación, el agua y los efectos meteorológicos están a otro nivel.
 
 146
-00:12:58,005 --> 00:13:03,566
+00:13:49,935 --> 00:13:55,670
 Y las multitudes: cientos de personajes en pantalla, cada uno con sus propias rutinas.
 
 147
-00:13:05,046 --> 00:13:08,819
+00:13:56,670 --> 00:14:01,435
 Mucho de lo aprendido en Red Dead Redemption dos se ha trasladado aquí.
 
 148
-00:13:09,099 --> 00:13:20,884
+00:14:01,435 --> 00:14:13,405
 Las animaciones son más pesadas y realistas, los personajes interactúan con el entorno de forma más creíble, y los NPC reaccionan a lo que haces de una manera mucho más natural.
 
 149
-00:13:21,164 --> 00:13:22,940
+00:14:13,405 --> 00:14:15,910
 Si empujas a alguien, se acuerda.
 
 150
-00:13:23,220 --> 00:13:26,436
+00:14:15,910 --> 00:14:19,540
 Si conduces como un loco, la gente lo graba con el móvil.
 
 151
-00:13:27,916 --> 00:13:32,618
+00:14:20,540 --> 00:14:25,375
 Y eso nos lleva a una de las grandes ideas del juego: las redes sociales.
 
 152
-00:13:32,898 --> 00:13:35,603
+00:14:25,375 --> 00:14:28,890
 Leonida está obsesionada con grabarlo todo.
 
 153
-00:13:35,883 --> 00:13:45,345
+00:14:28,890 --> 00:14:40,150
 Los vídeos virales, los directos y los influencers forman parte del mundo, y la sátira de Rockstar apunta directamente a la cultura digital de hoy en día.
 
 154
-00:13:46,825 --> 00:13:51,005
+00:14:41,150 --> 00:14:45,415
 En cuanto a la conducción, los coches tienen más peso y mejores daños.
 
 155
-00:13:51,285 --> 00:13:59,737
+00:14:45,415 --> 00:14:55,045
 El sistema de búsqueda policial es más inteligente, con agentes que investigan, que buscan testigos y que no se limitan a perseguirte en línea recta.
 
 156
-00:14:00,017 --> 00:14:05,230
+00:14:55,045 --> 00:15:01,160
 Y los atracos, el gran tema del juego, vuelven con planificación, roles y decisiones.
 
 157
-00:14:06,710 --> 00:14:08,486
+00:15:02,160 --> 00:15:04,235
 Eso sí, no todo es perfecto.
 
 158
-00:14:08,766 --> 00:14:15,883
+00:15:04,235 --> 00:15:11,860
 Según varios análisis, en consolas el juego apunta a treinta fotogramas por segundo, priorizando la fidelidad visual.
 
 159
-00:14:16,163 --> 00:14:23,082
+00:15:11,860 --> 00:15:19,780
 Hay quien lo considera una decisión razonable dada la escala del mundo, y quien lo ve como el principal punto débil técnico.
 
 160
-00:14:23,362 --> 00:14:24,767
+00:15:19,780 --> 00:15:21,260
 Es el eterno debate.
 
 161
-00:14:26,247 --> 00:14:34,455
+00:15:22,260 --> 00:15:30,515
 Además, como pasó con GTA cinco y con Red Dead dos, el juego ha salido solo en PlayStation cinco y Xbox Series.
 
 162
-00:14:34,735 --> 00:14:37,638
+00:15:30,515 --> 00:15:33,635
 De la versión de PC, de momento, no hay fecha.
 
 163
-00:14:37,918 --> 00:14:41,807
+00:15:33,635 --> 00:15:38,130
 Los jugadores de ordenador, una vez más, tendrán que esperar.
 
 164
-00:14:43,287 --> 00:14:44,355
+00:15:39,130 --> 00:15:40,325
 Capítulo nueve.
 
 165
-00:14:44,635 --> 00:14:45,820
+00:15:40,325 --> 00:15:41,570
 El lanzamiento.
 
 166
-00:14:47,299 --> 00:14:49,099
+00:15:42,570 --> 00:15:44,345
 Y llegamos al momento clave.
 
 167
-00:14:49,379 --> 00:14:56,043
+00:15:44,345 --> 00:15:51,260
 El diecinueve de noviembre de dos mil veintiséis, GTA seis salió a la venta en PlayStation cinco y Xbox Series.
 
 168
-00:14:56,323 --> 00:15:03,870
+00:15:51,260 --> 00:16:00,855
 Las precargas se abrieron unos días antes, el diez de noviembre, y la descarga en PlayStation rondaba los doscientos diez gigas.
 
 169
-00:15:04,150 --> 00:15:06,321
+00:16:00,855 --> 00:16:03,130
 Así que más vale que tuvieras espacio libre.
 
 170
-00:15:07,801 --> 00:15:11,446
+00:16:04,130 --> 00:16:08,460
 El precio fue uno de los temas más discutidos de los meses previos.
 
 171
-00:15:11,726 --> 00:15:18,158
+00:16:08,460 --> 00:16:15,990
 Finalmente, la edición estándar se situó en torno a los ochenta dólares, con una edición superior cercana a los cien.
 
 172
-00:15:18,438 --> 00:15:22,653
+00:16:15,990 --> 00:16:20,585
 Un precio alto, que reabre el debate sobre el coste de los videojuegos.
 
 173
-00:15:22,933 --> 00:15:27,008
+00:16:20,585 --> 00:16:25,460
 Aunque, a juzgar por las ventas, no parece haber frenado a casi nadie.
 
 174
-00:15:28,488 --> 00:15:30,183
+00:16:26,460 --> 00:16:28,530
 Porque, vamos con las notas.
 
 175
-00:15:30,463 --> 00:15:34,236
+00:16:28,530 --> 00:16:32,845
 GTA seis ha aterrizado con un noventa y nueve en Metacritic.
 
 176
-00:15:34,516 --> 00:15:41,726
+00:16:32,845 --> 00:16:40,405
 Esa cifra empata con el récord histórico que hasta ahora tenía en solitario The Legend of Zelda: Ocarina of Time.
 
 177
-00:15:42,006 --> 00:15:49,308
+00:16:40,405 --> 00:16:48,740
 Y con una diferencia: la de GTA seis se calcula sobre más de cien análisis, frente a poco más de veinte de Ocarina.
 
 178
-00:15:50,788 --> 00:16:03,037
+00:16:49,740 --> 00:17:02,095
 Los análisis coinciden en lo esencial: el mundo abierto más detallado jamás creado, una historia madura con dos personajes muy bien escritos, y un nivel técnico que marca una nueva referencia.
 
 179
-00:16:03,317 --> 00:16:11,966
+00:17:02,095 --> 00:17:10,810
 Las críticas, que las hay, apuntan sobre todo a un arranque lento, con unas primeras horas muy pausadas, y al rendimiento en consola.
 
 180
-00:16:13,446 --> 00:16:15,025
+00:17:11,810 --> 00:17:13,845
 Y luego están las ventas.
 
 181
-00:16:15,305 --> 00:16:23,293
+00:17:13,845 --> 00:17:22,940
 Según la propia compañía, GTA seis habría generado unos tres mil setecientos noventa millones de dólares en ventas el primer día.
 
 182
-00:16:23,573 --> 00:16:29,482
+00:17:22,940 --> 00:17:30,770
 Si se confirma, sería el mayor lanzamiento de la historia del entretenimiento, muy por encima de cualquier estreno de cine.
 
 183
-00:16:30,962 --> 00:16:33,110
+00:17:31,770 --> 00:17:34,270
 Ahora bien, hay que ser prudentes.
 
 184
-00:16:33,390 --> 00:16:47,775
+00:17:34,270 --> 00:17:54,030
 Esas cifras son estimaciones internas, y otras fuentes independientes, como Sensor Tower, hablan de unos dos mil trescientos sesenta millones de dólares y alrededor de veinticuatro millones y medio de copias entre reservas y primer día.
 
 185
-00:16:48,055 --> 00:16:51,375
+00:17:54,030 --> 00:17:57,125
 Aun así, estamos hablando de números sin precedentes.
 
 186
-00:16:51,655 --> 00:16:54,244
+00:17:57,125 --> 00:18:00,770
 Sea cual sea la cifra exacta, es un récord.
 
 187
-00:16:55,724 --> 00:16:58,383
+00:18:01,770 --> 00:18:04,030
 El lanzamiento tampoco estuvo libre de caos.
 
 188
-00:16:58,663 --> 00:17:07,696
+00:18:04,030 --> 00:18:14,015
 La noche del estreno, la PlayStation Network sufrió problemas por la avalancha de jugadores intentando descargar y activar el juego al mismo tiempo.
 
 189
-00:17:07,976 --> 00:17:20,421
+00:18:14,015 --> 00:18:27,150
 Y en las plataformas de streaming, millones de personas se conectaron simultáneamente para ver a sus creadores favoritos dar sus primeros pasos por Leonida, batiendo récords de audiencia para un solo juego.
 
 190
-00:17:21,901 --> 00:17:22,877
+00:18:28,150 --> 00:18:29,265
 Capítulo diez.
 
 191
-00:17:23,157 --> 00:17:24,097
+00:18:29,265 --> 00:18:30,190
 ¿Y ahora qué?
 
 192
-00:17:25,577 --> 00:17:27,783
+00:18:31,190 --> 00:18:33,840
 La gran pregunta es el futuro online.
 
 193
-00:17:28,063 --> 00:17:38,349
+00:18:33,840 --> 00:18:44,810
 Si GTA Online fue la base del éxito de GTA cinco durante más de diez años, todo apunta a que Rockstar tiene planes ambiciosos para el multijugador de GTA seis.
 
 194
-00:17:38,629 --> 00:17:46,408
+00:18:44,810 --> 00:18:54,170
 Un Leonida compartido, con negocios, atracos cooperativos y actualizaciones constantes, podría mantener vivo este juego durante otra década.
 
 195
-00:17:47,888 --> 00:17:50,129
+00:18:55,170 --> 00:18:58,805
 También queda pendiente la versión de PC.
 
 196
-00:17:50,409 --> 00:18:00,904
+00:18:58,805 --> 00:19:11,850
 Si la historia se repite, podría llegar uno o dos años después, con mejoras gráficas, más fotogramas por segundo y, por supuesto, una comunidad de mods que se frota las manos.
 
 197
-00:18:02,384 --> 00:18:04,857
+00:19:12,850 --> 00:19:15,405
 Y por último, el impacto en la industria.
 
 198
-00:18:05,137 --> 00:18:09,688
+00:19:15,405 --> 00:19:21,445
 GTA seis demuestra que los grandes lanzamientos todavía pueden paralizar el mundo.
 
 199
-00:18:09,968 --> 00:18:16,574
+00:19:21,445 --> 00:19:29,290
 Que un juego para un solo jugador, con una historia cuidada, puede ser el producto cultural más esperado de una década.
 
 200
-00:18:16,854 --> 00:18:26,711
+00:19:29,290 --> 00:19:40,030
 Pero también plantea preguntas: sobre los precios, sobre los ciclos de desarrollo de más de diez años, y sobre las condiciones de trabajo detrás de proyectos de este tamaño.
 
 201
-00:18:28,191 --> 00:18:29,340
+00:19:41,030 --> 00:19:42,375
 Capítulo once.
 
 202
-00:18:29,620 --> 00:18:30,538
+00:19:42,375 --> 00:19:43,670
 Conclusión.
 
 203
-00:18:32,018 --> 00:18:35,106
+00:19:44,670 --> 00:19:48,225
 Entonces, ¿ha merecido la pena esperar trece años?
 
 204
-00:18:35,386 --> 00:18:40,065
+00:19:48,225 --> 00:19:53,550
 Si nos fiamos de la crítica y de los jugadores, la respuesta parece un sí rotundo.
 
 205
-00:18:40,345 --> 00:18:48,437
+00:19:53,550 --> 00:20:03,180
 GTA seis no es solo una secuela: es la culminación de todo lo que Rockstar ha aprendido en más de veinticinco años haciendo mundos abiertos.
 
 206
-00:18:49,917 --> 00:18:54,236
+00:20:04,180 --> 00:20:09,265
 Vice City ha vuelto, más brillante, más ruidosa y más absurda que nunca.
 
 207
-00:18:54,516 --> 00:18:56,292
+00:20:09,265 --> 00:20:10,960
 Lucía y Jason nos esperan.
 
 208
-00:18:56,572 --> 00:19:01,947
+00:20:10,960 --> 00:20:16,780
 Y Leonida, ese reflejo deformado de nuestra propia época, está lista para ser explorada.
 
 209
-00:19:03,427 --> 00:19:05,250
+00:20:17,780 --> 00:20:19,640
 Y ahora quiero saber tu opinión.
 
 210
-00:19:05,530 --> 00:19:06,656
+00:20:19,640 --> 00:20:21,065
 ¿Ya lo estás jugando?
 
 211
-00:19:06,936 --> 00:19:08,492
+00:20:21,065 --> 00:20:22,755
 ¿Te parece justo su precio?
 
 212
-00:19:08,772 --> 00:19:11,384
+00:20:22,755 --> 00:20:25,720
 ¿Con quién te quedas, con Lucía o con Jason?
 
 213
-00:19:11,664 --> 00:19:14,462
+00:20:25,720 --> 00:20:28,180
 Déjamelo en los comentarios, que los leo todos.
 
 214
-00:19:15,942 --> 00:19:31,116
+00:20:29,180 --> 00:20:43,640
 Si el vídeo te ha gustado, dale a me gusta, suscríbete al canal y activa la campana para no perderte los próximos vídeos, porque vamos a hablar mucho de GTA seis en las próximas semanas: guías, secretos y curiosidades.
 
 215
-00:19:31,396 --> 00:19:33,266
+00:20:43,640 --> 00:20:46,235
 Muchas gracias por llegar hasta aquí.
 
 216
-00:19:33,546 --> 00:19:35,496
+00:20:46,235 --> 00:20:47,940
 Nos vemos en el próximo vídeo.
 
 217
-00:19:35,776 --> 00:19:36,821
+00:20:47,940 --> 00:20:48,830
 ¡Hasta pronto!
