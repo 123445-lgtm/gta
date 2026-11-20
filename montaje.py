@@ -32,8 +32,10 @@ def render_scene(i):
     v = ESCENAS[i]["visual"]
     dur = meta[i]["dur"]
     nf = int(round(dur * FPS))
-    bg = background(v["bg"], i).convert("RGB")
-    fg = foreground(v, CHAP[i])
+    ai = f"build/img/{i:03d}.jpg"
+    ai = ai if os.path.exists(ai) else None
+    bg = background(v["bg"], i, ai).convert("RGB")
+    fg = foreground(v, CHAP[i], ai=bool(ai))
     fg_a = fg.getchannel("A")
     fg_rgb = fg.convert("RGB")
     mode = i % 4  # 0 zoom in, 1 zoom out, 2 paneo der, 3 paneo izq

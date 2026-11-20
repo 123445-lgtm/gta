@@ -333,7 +333,20 @@ BGS = {"sunset": bg_sunset, "skyline": bg_skyline, "night": bg_night, "beach": b
        "highway": bg_highway, "grid": bg_grid, "map": bg_map}
 
 
-def background(kind, seed):
+def background(kind, seed, ai_path=None):
+    if ai_path:
+        from PIL import ImageEnhance
+        im = Image.open(ai_path).convert("RGB")
+        k = max(BW / im.width, BH / im.height)
+        im = im.resize((int(im.width * k + .5), int(im.height * k + .5)), Image.LANCZOS)
+        x, y = (im.width - BW) // 2, (im.height - BH) // 2
+        im = im.crop((x, y, x + BW, y + BH))
+        im = ImageEnhance.Contrast(ImageEnhance.Color(im).enhance(1.1)).enhance(1.05)
+        img = im.convert("RGBA")
+        tint = Image.new("RGBA", img.size, (40, 0, 60, 40))
+        img.alpha_composite(tint)
+        vignette(img, .5)
+        return img
     rnd = random.Random(seed)
     img = BGS[kind](rnd)
     vignette(img, .55)
@@ -390,7 +403,20 @@ def silhouette(fg, cx, cy, s, col):
     d.text((cx, cy - 215 * s), "?", font=font(int(150 * s)), fill=col + (230,), anchor="mm")
 
 
-def foreground(v, chapter=None):
+def lower_third(fg, title, sub, col=PINK):
+    f = fit(title, 96, 1100)
+    tw = max(f.getbbox(title)[2], font(40, "Bold").getbbox(sub.upper())[2]) if sub else f.getbbox(title)[2]
+    panel(fg, [80, H - 330, 80 + tw + 120, H - 90], 175, col)
+    text_glow(fg, (140, H - 240), title, f, anchor="lm", gcol=col, r=14)
+    if sub:
+        d = ImageDraw.Draw(fg)
+        fs = font(40, "Bold")
+        sw = fs.getbbox(sub.upper())[2]
+        d.rounded_rectangle([140, H - 175, 140 + sw + 44, H - 115], 14, fill=col)
+        d.text((162, H - 145), sub.upper(), font=fs, fill=(15, 0, 30), anchor="lm")
+
+
+def foreground(v, chapter=None, ai=False):
     fg = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(fg)
     t = v["t"]
@@ -463,6 +489,26 @@ def foreground(v, chapter=None):
             for k, ln in enumerate(lines):
                 fy = (y - 125 - (len(lines) - 1 - k) * 40) if up else (y + 125 + k * 40)
                 d.text((x, fy), ln, font=fl, fill="white", anchor="mm")
+    elif t == "map" and ai and v.get("hl"):
+        ox, oy, s = 1290, 150, 430
+        panel(fg, [1240, 110, 1840, 610], 175, TEAL)
+        land = Image.new("RGBA", fg.size, (0, 0, 0, 0))
+        ld = ImageDraw.Draw(land)
+        poly = leonida_poly(ox, oy, s)
+        ld.polygon(poly, fill=(30, 70, 60, 255), outline=TEAL + (255,))
+        for i in range(9):
+            cx = ox + (.74 - i * .022) * s * 1.25
+            cy = oy + (.87 + i * .009) * s
+            ld.ellipse([cx - 11, cy - 5, cx + 11, cy + 5], fill=(30, 70, 60, 255))
+        fg.alpha_composite(land)
+        d = ImageDraw.Draw(fg)
+        for name, (rx, ry) in REGIONS.items():
+            x, y = ox + rx * s * 1.25, oy + ry * s
+            on = v.get("hl") == name
+            r = 13 if on else 6
+            d.ellipse([x - r, y - r, x + r, y + r], fill=YELLOW if on else (200, 200, 220), outline=PINK if on else None, width=4)
+        d.text((1540, 585), "Mapa ilustrativo", font=font(22, "Medium"), fill=(170, 180, 210), anchor="mm")
+        lower_third(fg, v["title"], "Región de Leonida", TEAL)
     elif t == "map":
         ox, oy, s = 330, 120, 860
         land = Image.new("RGBA", fg.size, (0, 0, 0, 0))
@@ -494,6 +540,10 @@ def foreground(v, chapter=None):
         text_glow(fg, (W - 120, H - 260), v["title"], fit(v["title"], 90, 700), anchor="rt", r=14)
         d = ImageDraw.Draw(fg)
         d.text((W - 120, H - 140), "Mapa ilustrativo", font=font(30, "Medium"), fill=(160, 170, 200), anchor="rt")
+    elif t == "character" and ai:
+        lower_third(fg, v["name"], v["role"], COLORS[v["color"]])
+        d = ImageDraw.Draw(fg)
+        d.text((W - 60, H - 40), "Imagen ilustrativa generada por IA", font=font(24, "Medium"), fill=(220, 220, 235), anchor="rs")
     elif t == "character":
         col = COLORS[v["color"]]
         panel(fg, [140, 140, 1780, 940], 150, col)
